@@ -23,9 +23,9 @@
 
 
 Описание процесса тестирования:
-1. Скачать OpenJDK11 в соответствии с инструкцией по установке OpenJDK11 
+1. Скачать OpenJDK11 в соответствии с инструкцией по установке OpenJDK11 [ссылка](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 2. Протестировать установку OpenJDK11 через терминал, используя команду java -version
-3. Скачать приложение KeyValidator.class 
+3. Скачать приложение KeyValidator.class [ссылка](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
 4. Создать локальный репозиторий, добавить в него файл с приложением KeyValidator
 5. Запустить в терминале приложение KeyValidator командой java KeyValidator <ключ>, где <ключ> - предоставленные для валидации ключи
 6. Последовательно проверить предоставленные для тестирования ключи валидации, фиксируя результаты для валидных ключей - ОК, для невалидных - FAIL
